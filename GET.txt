@@ -1,0 +1,1 @@
+https://qa5.engineering-env.ninja/agent/installer/a1dc3faa-bb4e-4ef0-9687-990f2d615ffa/12.0.5956/NinjaOne-Agent-EmagalhaesOrg-MainOffice-Auto-x86-64.msi
