@@ -5,3 +5,16 @@ https://qa6.engineering-env.ninja/ws/api/v2/generic-installer/NinjaOneAgent-x86.
 
 
 2dfb5931-9fb2-4da7-9590-d3dd54613289
+
+
+
+
+Get-NetFirewallRule | Where-Object {$_.DisplayName -like "*Ninja*"}
+
+
+New-NetFirewallRule `
+  -DisplayName "Block NinjaOne Outbound" `
+  -Direction Outbound `
+  -Program "C:\Program Files\NinjaRMMAgent\NinjaRMMAgent.exe" `
+  -Action Block `
+  -Profile Any
