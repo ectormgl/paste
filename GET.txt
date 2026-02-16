@@ -1,5 +1,6 @@
 https://qa6.engineering-env.ninja/agent/installer/ee40a647-1d29-4aa6-9e31-18b0762e3254/13.0.6519/NinjaOne-Agent-EmagalhaesOrg-MainOffice-LINUXDESKTOP-x86-64.rpm
 
+https://qa6.engineering-env.ninja/agent/installer/2dfb5931-9fb2-4da7-9590-d3dd54613289/13.0.6624/NinjaOne-Agent-EmagalhaesOrg-MainOffice-Auto-x86-64.msi
 
 https://qa6.engineering-env.ninja/ws/api/v2/generic-installer/NinjaOneAgent-x86.msi
 
